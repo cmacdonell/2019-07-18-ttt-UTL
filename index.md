@@ -14,9 +14,8 @@ etherpad:  https://pad.carpentries.org/2019-07-18-ttt-UTL # optional: URL for th
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "University of Toronto Libraries"
-    address: "Blackburn Room, 4th floor, Robarts Library,130 St. George St., Toronto"
-    latlng: "43.664486,-79.39969"
-
+    address: "Room 538, Faculty of Information, 140 St. George Street"
+    latlng: "43.6650424,-79.3993625"
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
