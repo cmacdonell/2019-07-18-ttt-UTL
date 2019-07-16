@@ -132,6 +132,9 @@ The workshop organisers have checked that:
   <li>Accessible restrooms are available.</li>
 </ul>
 
+<b>Further details:</b>
+The accessible entrance into the Faculty of Information building (140 St. George Street) is via the wheelchair ramp on the northwest side of the building, by Sussex Ave. There are washrooms on each floor. An accessible gender-neutral washroom is located on Level 4, and additional accessible men’s and women’s washrooms are located on Level 1 of the building.
+
 Materials will be provided in advance of the workshop and
 large-print handouts are available if needed by notifying the
 organizers in advance.  If we can help making learning easier for
